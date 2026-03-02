@@ -10,3 +10,6 @@ btw, you can use `.get()` here to handle the dict lookup and the "else" case in 
 
 # no need to copy-paste each other's work
 it's obvious anyway :))
+
+-------------------------------------
+Thanks for the feedback. And i only want to say that i didn't copy anyone's work.
