@@ -1,5 +1,5 @@
 #Djelili Anes Abdessamad
-#the code is working but i'm getting a warning i dont know why :(
+#the code is working but i'm only getting a warning 
 import numpy as np
 import spacy
 import contractions
